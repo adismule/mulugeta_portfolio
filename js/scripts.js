@@ -31,7 +31,7 @@ const projects = [
     {
       title: "Evangadi Forum",
       description: "Q&A web app with user auth, question/answer features using full stack tech",
-      image: "../assets/image/evan_forum.jpg",
+      image: "../assets/image/evan_forum.png",
       link: "https://evanforum.com"
     }
   ];
